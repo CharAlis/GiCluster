@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e7029d7ef16026e48a8a14409658f20c
+timeCreated: 1449917128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_0
+    21300002: idle_1
+    21300004: idle_2
+    21300006: idle_3
+    21300008: idle_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 153
+      alignment: 9
+      pivot: {x: 0.63067824, y: 0.000000051737597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.977604, y: 153}
+        - {x: -48.022396, y: 153}
+        - {x: -58.022396, y: 151}
+        - {x: -58.022396, y: 22.999992}
+        - {x: -32.022396, y: -0.0000076293945}
+        - {x: 22.977604, y: -0.0000076293945}
+        - {x: 33.977604, y: 15.999992}
+        - {x: 33.977604, y: 82.99999}
+        - {x: 22.977604, y: 147}
+    - name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 93
+        height: 153
+      alignment: 9
+      pivot: {x: 0.64543235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.974792, y: 146}
+        - {x: 1.9747925, y: 153}
+        - {x: -60.025208, y: 153}
+        - {x: -60.025208, y: 15}
+        - {x: -54.025208, y: 0}
+        - {x: 22.974792, y: 0}
+        - {x: 18.974792, y: 8}
+        - {x: 32.974792, y: 23}
+        - {x: 32.974792, y: 69}
+    - name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 93
+        height: 153
+      alignment: 9
+      pivot: {x: 0.65744317, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.142212, y: 153}
+        - {x: -61.142212, y: 20}
+        - {x: -33.142212, y: 0}
+        - {x: 23.857788, y: 0}
+        - {x: 31.857788, y: 11}
+        - {x: 31.857788, y: 123}
+        - {x: 18.857788, y: 153}
+    - name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 93
+        height: 153
+      alignment: 9
+      pivot: {x: 0.6139385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.096283, y: 153}
+        - {x: -57.096283, y: 2}
+        - {x: -41.096283, y: 0}
+        - {x: 31.903717, y: 0}
+        - {x: 35.903717, y: 3}
+        - {x: 35.903717, y: 101}
+        - {x: 14.903717, y: 153}
+    - name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 93
+        height: 153
+      alignment: 9
+      pivot: {x: 0.59154356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.98645, y: 153}
+        - {x: -47.01355, y: 153}
+        - {x: -55.01355, y: 135}
+        - {x: -53.01355, y: 118}
+        - {x: -55.01355, y: 87}
+        - {x: -55.01355, y: 7}
+        - {x: -30.01355, y: 0}
+        - {x: 31.98645, y: 0}
+        - {x: 37.98645, y: 13}
+        - {x: 37.98645, y: 75}
+        - {x: 23.98645, y: 148}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
