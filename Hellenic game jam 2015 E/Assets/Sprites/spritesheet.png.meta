@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: e0066bccc702a4a4d80702e570e6ab28
+timeCreated: 1449927569
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_0
+    21300002: spritesheet_1
+    21300004: spritesheet_2
+    21300006: spritesheet_3
+    21300008: spritesheet_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 232
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 116.5}
+        - {x: 35, y: 128.5}
+        - {x: 28, y: 130.5}
+        - {x: -60, y: 130.5}
+        - {x: -79, y: 120.5}
+        - {x: -116, y: 68.5}
+        - {x: -116, y: -72.5}
+        - {x: -78, y: -104.5}
+        - {x: -31, y: -104.5}
+        - {x: -23, y: -103.5}
+        - {x: -25, y: -124.5}
+        - {x: -23, y: -130.5}
+        - {x: 42, y: -130.5}
+        - {x: 116, y: -66.5}
+        - {x: 116, y: 72.5}
+    - name: spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 229
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 130.5}
+        - {x: -114.5, y: 87.5}
+        - {x: -114.5, y: -60.5}
+        - {x: -76.5, y: -97.5}
+        - {x: -31.5, y: -104.5}
+        - {x: -24.5, y: -104.5}
+        - {x: -26.5, y: -115.5}
+        - {x: -26.5, y: -118.5}
+        - {x: -23.5, y: -123.5}
+        - {x: -14.5, y: -124.5}
+        - {x: -5.5, y: -123.5}
+        - {x: -2.5, y: -120.5}
+        - {x: -2.5, y: -106.5}
+        - {x: -0.5, y: -106.5}
+        - {x: 9.5, y: -105.5}
+        - {x: 10.5, y: -102.5}
+        - {x: 6.5, y: -130.5}
+        - {x: 35.5, y: -130.5}
+        - {x: 114.5, y: -75.5}
+        - {x: 114.5, y: 97.5}
+        - {x: 53.5, y: 130.5}
+    - name: spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 227
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5, y: -7.5}
+        - {x: 99.5, y: -8.5}
+        - {x: 100.5, y: -7.5}
+        - {x: 101.5, y: -8.5}
+        - {x: 113.5, y: -13.5}
+        - {x: 113.5, y: 88.5}
+        - {x: 60.5, y: 130.5}
+        - {x: -64.5, y: 130.5}
+        - {x: -113.5, y: 84.5}
+        - {x: -113.5, y: -12.5}
+        - {x: -112.5, y: -11.5}
+        - {x: -106.5, y: -7.5}
+        - {x: -111.5, y: -10.5}
+        - {x: -113.5, y: -16.5}
+        - {x: -113.5, y: -33.5}
+        - {x: -105.5, y: -47.5}
+        - {x: -101.5, y: -49.5}
+        - {x: -99.5, y: -49.5}
+        - {x: -101.5, y: -49.5}
+        - {x: -108.5, y: -55.5}
+        - {x: -110.5, y: -85.5}
+        - {x: -63.5, y: -130.5}
+        - {x: 51.5, y: -130.5}
+        - {x: 99.5, y: -109.5}
+        - {x: 113.5, y: -75.5}
+        - {x: 113.5, y: -13.5}
+        - {x: 103.5, y: -9.5}
+    - name: spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1
+        width: 227
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -130.5}
+        - {x: 113.5, y: -83.5}
+        - {x: 113.5, y: -13.5}
+        - {x: 103.5, y: -9.5}
+        - {x: 99.5, y: -7.5}
+        - {x: 99.5, y: -8.5}
+        - {x: 100.5, y: -7.5}
+        - {x: 101.5, y: -8.5}
+        - {x: 113.5, y: -13.5}
+        - {x: 113.5, y: 88.5}
+        - {x: 60.5, y: 130.5}
+        - {x: -64.5, y: 130.5}
+        - {x: -113.5, y: 84.5}
+        - {x: -113.5, y: -12.5}
+        - {x: -112.5, y: -11.5}
+        - {x: -106.5, y: -7.5}
+        - {x: -111.5, y: -10.5}
+        - {x: -113.5, y: -16.5}
+        - {x: -113.5, y: -33.5}
+        - {x: -105.5, y: -47.5}
+        - {x: -101.5, y: -49.5}
+        - {x: -99.5, y: -49.5}
+        - {x: -101.5, y: -49.5}
+        - {x: -113.5, y: -52.5}
+        - {x: -113.5, y: -54.5}
+        - {x: -95.5, y: -100.5}
+        - {x: -44.5, y: -130.5}
+        - {x: 4.5, y: -130.5}
+        - {x: 13.5, y: -110.5}
+        - {x: 7.5, y: -125.5}
+        - {x: 7.5, y: -130.5}
+    - name: spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1
+        width: 230
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -112.5}
+        - {x: 8, y: -118.5}
+        - {x: 11, y: -121.5}
+        - {x: 32, y: -121.5}
+        - {x: 36, y: -115.5}
+        - {x: 73, y: -85.5}
+        - {x: 109, y: -65.5}
+        - {x: 112, y: -26.5}
+        - {x: 112, y: -14.5}
+        - {x: 105, y: -9.5}
+        - {x: 101, y: -8.5}
+        - {x: 97, y: -6.5}
+        - {x: 97, y: -7.5}
+        - {x: 98, y: -6.5}
+        - {x: 99, y: -7.5}
+        - {x: 109, y: -11.5}
+        - {x: 115, y: -12.5}
+        - {x: 115, y: 98.5}
+        - {x: 108, y: 130.5}
+        - {x: -113, y: 130.5}
+        - {x: -115, y: 121.5}
+        - {x: -115, y: -45.5}
+        - {x: -104, y: -48.5}
+        - {x: -102, y: -48.5}
+        - {x: -104, y: -48.5}
+        - {x: -111, y: -54.5}
+        - {x: -113, y: -66.5}
+        - {x: -41, y: -130.5}
+        - {x: -3, y: -130.5}
+        - {x: -4, y: -108.5}
+        - {x: 8, y: -106.5}
+        - {x: 9, y: -103.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
