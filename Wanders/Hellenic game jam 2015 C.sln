@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellenic game jam 2015 C.CSharp.Plugins", "Hellenic game jam 2015 C.CSharp.Plugins.csproj", "{3D4F7FAF-61F8-E1D1-43C4-B65BCC342195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellenic game jam 2015 C.CSharp", "Hellenic game jam 2015 C.CSharp.csproj", "{2C1BF733-41F4-6271-1010-54E7B6543014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellenic game jam 2015 C.CSharp.Editor", "Hellenic game jam 2015 C.CSharp.Editor.csproj", "{60B65C0F-D25C-A1EA-0D00-0A9B0D69C84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4F7FAF-61F8-E1D1-43C4-B65BCC342195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F7FAF-61F8-E1D1-43C4-B65BCC342195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F7FAF-61F8-E1D1-43C4-B65BCC342195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F7FAF-61F8-E1D1-43C4-B65BCC342195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1BF733-41F4-6271-1010-54E7B6543014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1BF733-41F4-6271-1010-54E7B6543014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1BF733-41F4-6271-1010-54E7B6543014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1BF733-41F4-6271-1010-54E7B6543014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B65C0F-D25C-A1EA-0D00-0A9B0D69C84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B65C0F-D25C-A1EA-0D00-0A9B0D69C84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B65C0F-D25C-A1EA-0D00-0A9B0D69C84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B65C0F-D25C-A1EA-0D00-0A9B0D69C84C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

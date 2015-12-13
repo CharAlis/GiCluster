@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: ff9b67a77ae4e124b8ec783be18eda71
+timeCreated: 1449929753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jump-down_0
+    21300002: jump-down_1
+    21300004: jump-down_2
+    21300006: jump-down_3
+    21300008: jump-down_4
+    21300010: jump-down_5
+    21300012: jump-down_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jump-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.61637694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.06057, y: 158}
+        - {x: -44.93943, y: 158}
+        - {x: -47.93943, y: 155}
+        - {x: -57.93943, y: 133}
+        - {x: -57.93943, y: 20}
+        - {x: -43.93943, y: 0}
+        - {x: 21.06057, y: 0}
+        - {x: 36.06057, y: 24}
+        - {x: 36.06057, y: 86}
+        - {x: 27.06057, y: 154}
+    - name: jump-down_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 95
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6209802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.006882, y: 71}
+        - {x: 26.006882, y: 149}
+        - {x: 9.006882, y: 154}
+        - {x: -46.99312, y: 154}
+        - {x: -56.99312, y: 120}
+        - {x: -58.99312, y: 105}
+        - {x: -58.99312, y: 20}
+        - {x: -25.993118, y: 0}
+        - {x: 25.006882, y: 0}
+        - {x: 36.00688, y: 19}
+        - {x: 36.00688, y: 53}
+    - name: jump-down_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 100
+        height: 154
+      alignment: 9
+      pivot: {x: 0.60994506, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.005493, y: 154}
+        - {x: -47.994507, y: 154}
+        - {x: -58.994507, y: 152}
+        - {x: -60.994507, y: 122}
+        - {x: -60.994507, y: 24}
+        - {x: -30.994507, y: 0}
+        - {x: 24.005493, y: 0}
+        - {x: 39.005493, y: 19}
+        - {x: 39.005493, y: 77}
+        - {x: 24.005493, y: 149}
+    - name: jump-down_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 98
+        height: 153
+      alignment: 9
+      pivot: {x: 0.61165076, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0582275, y: 153}
+        - {x: -48.941772, y: 153}
+        - {x: -59.941772, y: 151}
+        - {x: -59.941772, y: 19}
+        - {x: -25.941772, y: 0}
+        - {x: 38.058228, y: 0}
+        - {x: 38.058228, y: 108}
+        - {x: 18.058228, y: 143}
+    - name: jump-down_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5
+        width: 98
+        height: 153
+      alignment: 9
+      pivot: {x: 0.61259615, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.965576, y: 153}
+        - {x: -45.034424, y: 153}
+        - {x: -58.034424, y: 149}
+        - {x: -60.034424, y: 144}
+        - {x: -60.034424, y: 10}
+        - {x: -55.034424, y: 0}
+        - {x: 28.965576, y: 0}
+        - {x: 37.965576, y: 24}
+        - {x: 37.965576, y: 90}
+        - {x: 18.965576, y: 144}
+    - name: jump-down_5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 98
+        height: 153
+      alignment: 9
+      pivot: {x: 0.61243296, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.018433, y: 153}
+        - {x: -60.018433, y: 121}
+        - {x: -60.018433, y: 9}
+        - {x: -55.018433, y: 0}
+        - {x: 22.981567, y: 0}
+        - {x: 37.981567, y: 9}
+        - {x: 37.981567, y: 71}
+        - {x: 17.981567, y: 143}
+        - {x: -1.0184326, y: 153}
+    - name: jump-down_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 5
+        width: 92
+        height: 153
+      alignment: 9
+      pivot: {x: 0.63087463, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.959534, y: 153}
+        - {x: -48.040466, y: 153}
+        - {x: -58.040466, y: 151}
+        - {x: -58.040466, y: 23}
+        - {x: -32.040466, y: 0}
+        - {x: 22.959534, y: 0}
+        - {x: 33.959534, y: 16}
+        - {x: 33.959534, y: 83}
+        - {x: 22.959534, y: 147}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
