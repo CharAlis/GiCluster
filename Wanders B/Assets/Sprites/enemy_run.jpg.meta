@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 38188901294afc840ad054018945cbcc
+timeCreated: 1449979966
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_run_0
+    21300002: enemy_run_1
+    21300004: enemy_run_2
+    21300006: enemy_run_3
+    21300008: enemy_run_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy_run_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 232
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -126.5}
+        - {x: 90, y: -82.5}
+        - {x: 88, y: -77.5}
+        - {x: 116, y: -78.5}
+        - {x: 116, y: 63.5}
+        - {x: 94, y: 130.5}
+        - {x: -91, y: 130.5}
+        - {x: -116, y: 93.5}
+        - {x: -116, y: -72.5}
+        - {x: -63, y: -130.5}
+        - {x: -56, y: -130.5}
+        - {x: -23, y: -95.5}
+        - {x: -21, y: -93.5}
+        - {x: -15, y: -104.5}
+        - {x: -7, y: -103.5}
+        - {x: -6, y: -100.5}
+        - {x: -6, y: -128.5}
+        - {x: -3, y: -130.5}
+        - {x: 19, y: -130.5}
+        - {x: 20, y: -129.5}
+        - {x: 23, y: -130.5}
+        - {x: 57, y: -130.5}
+      - - {x: 16, y: 127.5}
+        - {x: 17, y: 124.5}
+        - {x: 21, y: 124.5}
+        - {x: 23, y: 126.5}
+        - {x: 22, y: 129.5}
+        - {x: 18, y: 129.5}
+    - name: enemy_run_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 232
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -71.5}
+        - {x: 116, y: -72.5}
+        - {x: 116, y: 65.5}
+        - {x: 94, y: 130.5}
+        - {x: -96, y: 130.5}
+        - {x: -116, y: 96.5}
+        - {x: -116, y: -71.5}
+        - {x: -65, y: -127.5}
+        - {x: 11, y: -114.5}
+        - {x: 28, y: -105.5}
+        - {x: 29, y: -102.5}
+        - {x: 32, y: -129.5}
+        - {x: 33, y: -130.5}
+        - {x: 57, y: -130.5}
+        - {x: 60, y: -126.5}
+        - {x: 90, y: -82.5}
+        - {x: 88, y: -77.5}
+      - - {x: 16, y: 127.5}
+        - {x: 17, y: 124.5}
+        - {x: 21, y: 124.5}
+        - {x: 23, y: 126.5}
+        - {x: 22, y: 129.5}
+        - {x: 18, y: 129.5}
+    - name: enemy_run_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1
+        width: 230
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 130.5}
+        - {x: -81, y: 130.5}
+        - {x: -89, y: 124.5}
+        - {x: -113, y: 71.5}
+        - {x: -115, y: 58.5}
+        - {x: -115, y: -78.5}
+        - {x: -13, y: -113.5}
+        - {x: -20, y: -93.5}
+        - {x: -14, y: -104.5}
+        - {x: -6, y: -103.5}
+        - {x: -5, y: -100.5}
+        - {x: -5, y: -130.5}
+        - {x: 33, y: -130.5}
+        - {x: 82, y: -113.5}
+        - {x: 115, y: -65.5}
+        - {x: 115, y: 53.5}
+        - {x: 55, y: 125.5}
+      - - {x: 17, y: 127.5}
+        - {x: 18, y: 124.5}
+        - {x: 22, y: 124.5}
+        - {x: 24, y: 126.5}
+        - {x: 23, y: 129.5}
+        - {x: 19, y: 129.5}
+    - name: enemy_run_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 231
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: 130.5}
+        - {x: -115.5, y: 123.5}
+        - {x: -115.5, y: -29.5}
+        - {x: -100.5, y: -67.5}
+        - {x: -65.5, y: -99.5}
+        - {x: -16.5, y: -108.5}
+        - {x: -8.5, y: -104.5}
+        - {x: -4.5, y: -98.5}
+        - {x: -8.5, y: -110.5}
+        - {x: -4.5, y: -118.5}
+        - {x: 6.5, y: -120.5}
+        - {x: 18.5, y: -115.5}
+        - {x: 16.5, y: -110.5}
+        - {x: 15.5, y: -103.5}
+        - {x: 17.5, y: -108.5}
+        - {x: 29.5, y: -130.5}
+        - {x: 77.5, y: -130.5}
+        - {x: 115.5, y: -77.5}
+        - {x: 115.5, y: 82.5}
+        - {x: 80.5, y: 130.5}
+    - name: enemy_run_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1
+        width: 232
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -101.5}
+        - {x: 37, y: -98.5}
+        - {x: 28, y: -109.5}
+        - {x: 29, y: -114.5}
+        - {x: 32, y: -117.5}
+        - {x: 51, y: -130.5}
+        - {x: 69, y: -130.5}
+        - {x: 116, y: -65.5}
+        - {x: 116, y: 91.5}
+        - {x: 52, y: 130.5}
+        - {x: -90, y: 130.5}
+        - {x: -98, y: 124.5}
+        - {x: -116, y: 79.5}
+        - {x: -116, y: -41.5}
+        - {x: -96, y: -63.5}
+        - {x: -76, y: -69.5}
+        - {x: -73, y: -85.5}
+        - {x: -63, y: -96.5}
+        - {x: -29, y: -130.5}
+        - {x: 34, y: -130.5}
+        - {x: 17, y: -109.5}
+        - {x: 28, y: -107.5}
+        - {x: 29, y: -104.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
